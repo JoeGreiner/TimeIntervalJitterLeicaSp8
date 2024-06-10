@@ -1,0 +1,152 @@
+<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06 http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd">
+<Instrument ID="Instrument:0">
+<Microscope Type="Other"/>
+<Laser ID="LightSource:0:0" LaserMedium="Other" Type="Other" Wavelength="488.0" WavelengthUnit="nm"/>
+<Laser ID="LightSource:0:1" LaserMedium="Other" Type="Other" Wavelength="503.0" WavelengthUnit="nm"/>
+<Laser ID="LightSource:0:2" LaserMedium="Other" Type="Other" Wavelength="600.0" WavelengthUnit="nm"/>
+<Laser ID="LightSource:0:3" LaserMedium="Other" Type="Other" Wavelength="615.0" WavelengthUnit="nm"/>
+<Laser ID="LightSource:0:4" LaserMedium="Other" Type="Other" Wavelength="516.0" WavelengthUnit="nm"/>
+<Laser ID="LightSource:0:5" LaserMedium="Other" Type="Other" Wavelength="645.0" WavelengthUnit="nm"/>
+<Laser ID="LightSource:0:6" LaserMedium="Other" Type="Other" Wavelength="630.0" WavelengthUnit="nm"/>
+<Laser ID="LightSource:0:7" LaserMedium="Other" Type="Other" Wavelength="660.0" WavelengthUnit="nm"/>
+<Objective Correction="Other" ID="Objective:0:0" Immersion="Other" Model="HC PL APO CS2    40x/1.10 WATER"/>
+<Image ID="Image:0" Name="2023-12-01_2_TREK1_TREK1-transfection">
+<AcquisitionDate>2023-12-01T13:21:59</AcquisitionDate>
+<InstrumentRef ID="Instrument:0"/>
+<ObjectiveSettings ID="Objective:0:0"/>
+<Pixels BigEndian="false" DimensionOrder="XYCZT" ID="Pixels:0" Interleaved="false" PhysicalSizeX="0.1419760625305325" PhysicalSizeXUnit="µm" PhysicalSizeY="0.1419760625305325" PhysicalSizeYUnit="µm" SignificantBits="8" SizeC="1" SizeT="132" SizeX="2048" SizeY="2048" SizeZ="1" Type="uint8">
+<Channel Color="-1" ID="Channel:0:0" Name="" PinholeSize="77.225769007545" PinholeSizeUnit="µm" SamplesPerPixel="1">
+<LightPath/>
+<MetadataOnly/>
+<Plane DeltaT="0.0" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="0" TheZ="0"/>
+<Plane DeltaT="6.853000640869141" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="1" TheZ="0"/>
+<Plane DeltaT="13.704000473022461" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="2" TheZ="0"/>
+<Plane DeltaT="20.55500030517578" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="3" TheZ="0"/>
+<Plane DeltaT="27.4060001373291" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="4" TheZ="0"/>
+<Plane DeltaT="34.25900077819824" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="5" TheZ="0"/>
+<Plane DeltaT="41.111000061035156" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="6" TheZ="0"/>
+<Plane DeltaT="47.96199989318848" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="7" TheZ="0"/>
+<Plane DeltaT="54.81500053405762" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="8" TheZ="0"/>
+<Plane DeltaT="61.66600036621094" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="9" TheZ="0"/>
+<Plane DeltaT="68.51700019836426" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="10" TheZ="0"/>
+<Plane DeltaT="75.3700008392334" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="11" TheZ="0"/>
+<Plane DeltaT="82.22200012207031" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="12" TheZ="0"/>
+<Plane DeltaT="89.07299995422363" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="13" TheZ="0"/>
+<Plane DeltaT="95.92399978637695" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="14" TheZ="0"/>
+<Plane DeltaT="102.7760009765625" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="15" TheZ="0"/>
+<Plane DeltaT="109.62800025939941" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="16" TheZ="0"/>
+<Plane DeltaT="116.48299980163574" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="17" TheZ="0"/>
+<Plane DeltaT="123.33600044250488" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="18" TheZ="0"/>
+<Plane DeltaT="130.1870002746582" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="19" TheZ="0"/>
+<Plane DeltaT="137.03800010681152" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="20" TheZ="0"/>
+<Plane DeltaT="143.88899993896484" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="21" TheZ="0"/>
+<Plane DeltaT="150.74200057983398" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="22" TheZ="0"/>
+<Plane DeltaT="157.5939998626709" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="23" TheZ="0"/>
+<Plane DeltaT="164.44400024414062" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="24" TheZ="0"/>
+<Plane DeltaT="171.31900024414062" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="25" TheZ="0"/>
+<Plane DeltaT="178.17200088500977" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="26" TheZ="0"/>
+<Plane DeltaT="185.0300006866455" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="27" TheZ="0"/>
+<Plane DeltaT="191.88100051879883" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="28" TheZ="0"/>
+<Plane DeltaT="198.7730007171631" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="29" TheZ="0"/>
+<Plane DeltaT="205.64300155639648" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="30" TheZ="0"/>
+<Plane DeltaT="212.5030002593994" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="31" TheZ="0"/>
+<Plane DeltaT="219.36100006103516" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="32" TheZ="0"/>
+<Plane DeltaT="226.21199989318848" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="33" TheZ="0"/>
+<Plane DeltaT="233.0629997253418" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="34" TheZ="0"/>
+<Plane DeltaT="239.9340000152588" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="35" TheZ="0"/>
+<Plane DeltaT="246.79000091552734" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="36" TheZ="0"/>
+<Plane DeltaT="253.64300155639648" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="37" TheZ="0"/>
+<Plane DeltaT="260.4950008392334" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="38" TheZ="0"/>
+<Plane DeltaT="267.3470001220703" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="39" TheZ="0"/>
+<Plane DeltaT="274.2020015716553" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="40" TheZ="0"/>
+<Plane DeltaT="281.0550003051758" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="41" TheZ="0"/>
+<Plane DeltaT="287.9060001373291" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="42" TheZ="0"/>
+<Plane DeltaT="294.7730007171631" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="43" TheZ="0"/>
+<Plane DeltaT="301.66699981689453" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="44" TheZ="0"/>
+<Plane DeltaT="308.5240001678467" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="45" TheZ="0"/>
+<Plane DeltaT="315.375" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="46" TheZ="0"/>
+<Plane DeltaT="322.22800064086914" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="47" TheZ="0"/>
+<Plane DeltaT="329.0860004425049" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="48" TheZ="0"/>
+<Plane DeltaT="335.9370002746582" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="49" TheZ="0"/>
+<Plane DeltaT="342.7880001068115" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="50" TheZ="0"/>
+<Plane DeltaT="349.63899993896484" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="51" TheZ="0"/>
+<Plane DeltaT="356.496000289917" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="52" TheZ="0"/>
+<Plane DeltaT="363.34900093078613" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="53" TheZ="0"/>
+<Plane DeltaT="370.20000076293945" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="54" TheZ="0"/>
+<Plane DeltaT="377.0900001525879" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="55" TheZ="0"/>
+<Plane DeltaT="383.9409999847412" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="56" TheZ="0"/>
+<Plane DeltaT="390.79199981689453" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="57" TheZ="0"/>
+<Plane DeltaT="397.6450004577637" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="58" TheZ="0"/>
+<Plane DeltaT="404.5" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="59" TheZ="0"/>
+<Plane DeltaT="411.3500003814697" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="60" TheZ="0"/>
+<Plane DeltaT="418.2020015716553" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="61" TheZ="0"/>
+<Plane DeltaT="425.0540008544922" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="62" TheZ="0"/>
+<Plane DeltaT="431.9060001373291" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="63" TheZ="0"/>
+<Plane DeltaT="438.7569999694824" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="64" TheZ="0"/>
+<Plane DeltaT="445.60799980163574" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="65" TheZ="0"/>
+<Plane DeltaT="452.4600009918213" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="66" TheZ="0"/>
+<Plane DeltaT="459.3120002746582" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="67" TheZ="0"/>
+<Plane DeltaT="466.1630001068115" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="68" TheZ="0"/>
+<Plane DeltaT="473.0270004272461" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="69" TheZ="0"/>
+<Plane DeltaT="479.8780002593994" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="70" TheZ="0"/>
+<Plane DeltaT="486.72900009155273" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="71" TheZ="0"/>
+<Plane DeltaT="493.57999992370605" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="72" TheZ="0"/>
+<Plane DeltaT="500.4330005645752" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="73" TheZ="0"/>
+<Plane DeltaT="507.2840003967285" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="74" TheZ="0"/>
+<Plane DeltaT="514.1350002288818" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="75" TheZ="0"/>
+<Plane DeltaT="520.9930000305176" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="76" TheZ="0"/>
+<Plane DeltaT="527.8460006713867" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="77" TheZ="0"/>
+<Plane DeltaT="534.69700050354" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="78" TheZ="0"/>
+<Plane DeltaT="541.5480003356934" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="79" TheZ="0"/>
+<Plane DeltaT="548.4060001373291" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="80" TheZ="0"/>
+<Plane DeltaT="555.2569999694824" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="81" TheZ="0"/>
+<Plane DeltaT="562.1110000610352" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="82" TheZ="0"/>
+<Plane DeltaT="568.9619998931885" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="83" TheZ="0"/>
+<Plane DeltaT="575.8190002441406" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="84" TheZ="0"/>
+<Plane DeltaT="582.6720008850098" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="85" TheZ="0"/>
+<Plane DeltaT="589.5240001678467" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="86" TheZ="0"/>
+<Plane DeltaT="596.375" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="87" TheZ="0"/>
+<Plane DeltaT="603.2280006408691" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="88" TheZ="0"/>
+<Plane DeltaT="610.0830001831055" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="89" TheZ="0"/>
+<Plane DeltaT="616.9360008239746" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="90" TheZ="0"/>
+<Plane DeltaT="623.7880001068115" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="91" TheZ="0"/>
+<Plane DeltaT="630.6490001678467" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="92" TheZ="0"/>
+<Plane DeltaT="637.5139999389648" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="93" TheZ="0"/>
+<Plane DeltaT="644.3649997711182" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="94" TheZ="0"/>
+<Plane DeltaT="651.2170009613037" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="95" TheZ="0"/>
+<Plane DeltaT="658.0690002441406" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="96" TheZ="0"/>
+<Plane DeltaT="664.920000076294" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="97" TheZ="0"/>
+<Plane DeltaT="671.7709999084473" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="98" TheZ="0"/>
+<Plane DeltaT="678.6219997406006" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="99" TheZ="0"/>
+<Plane DeltaT="685.4750003814697" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="100" TheZ="0"/>
+<Plane DeltaT="692.326000213623" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="101" TheZ="0"/>
+<Plane DeltaT="699.1770000457764" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="102" TheZ="0"/>
+<Plane DeltaT="706.0300006866455" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="103" TheZ="0"/>
+<Plane DeltaT="712.8810005187988" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="104" TheZ="0"/>
+<Plane DeltaT="719.7320003509521" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="105" TheZ="0"/>
+<Plane DeltaT="726.5830001831055" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="106" TheZ="0"/>
+<Plane DeltaT="733.4360008239746" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="107" TheZ="0"/>
+<Plane DeltaT="740.2980003356934" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="108" TheZ="0"/>
+<Plane DeltaT="747.1510009765625" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="109" TheZ="0"/>
+<Plane DeltaT="754.0020008087158" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="110" TheZ="0"/>
+<Plane DeltaT="760.8540000915527" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="111" TheZ="0"/>
+<Plane DeltaT="767.7189998626709" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="112" TheZ="0"/>
+<Plane DeltaT="774.5750007629395" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="113" TheZ="0"/>
+<Plane DeltaT="781.4270000457764" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="114" TheZ="0"/>
+<Plane DeltaT="788.2779998779297" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="115" TheZ="0"/>
+<Plane DeltaT="795.128999710083" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="116" TheZ="0"/>
+<Plane DeltaT="801.9810009002686" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="117" TheZ="0"/>
+<Plane DeltaT="808.8330001831055" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="118" TheZ="0"/>
+<Plane DeltaT="815.6840000152588" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="119" TheZ="0"/>
+<Plane DeltaT="822.5410003662109" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="120" TheZ="0"/>
+<Plane DeltaT="829.3920001983643" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="121" TheZ="0"/>
+<Plane DeltaT="836.246000289917" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="122" TheZ="0"/>
+<Plane DeltaT="843.0970001220703" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="123" TheZ="0"/>
+<Plane DeltaT="849.9479999542236" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="124" TheZ="0"/>
+<Plane DeltaT="856.798999786377" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="125" TheZ="0"/>
+<Plane DeltaT="863.6520004272461" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="126" TheZ="0"/>
+<Plane DeltaT="870.5030002593994" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="127" TheZ="0"/>
+<Plane DeltaT="877.3570003509521" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="128" TheZ="0"/>
+<Plane DeltaT="884.2119998931885" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="129" TheZ="0"/>
+<Plane DeltaT="891.0650005340576" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="130" TheZ="0"/>
+<Plane DeltaT="897.920000076294" DeltaTUnit="s" PositionX="0.0444938639" PositionXUnit="m" PositionY="-0.0611410917" PositionYUnit="m" TheC="0" TheT="131" TheZ="0"/>
