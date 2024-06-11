@@ -1,6 +1,6 @@
-# TimeJitterLeicaSp8
+# Time Interval Jitter LeicaSp8
 
-This repository is documentation/analysis scripts for an unexpected time jitter phenomena we observed with the Leica SP8 confocal microscope. When recording a timerseries with Navigator, the time between frames is not constant, but exhibits quite a large time jitter (up to 44ms maximal jitter). However, these phenomena is not present when recording outside Navigator with exactly the same acquisition settings (regular jitter of ~1ms or less). This jitter is visualised here:
+This repository is documentation/analysis scripts for an unexpected time jitter phenomena (jitter between two frame acquisitions/interval between two subsequent frames) we observed with the Leica SP8 platform (observed both with multiphoton and confocal microscope). When recording a timeseries with Navigator, the time between frames is not constant, but exhibits quite a large time jitter (up to 44ms maximal jitter). However, these phenomena is not present when recording outside Navigator with exactly the same acquisition settings (regular jitter of ~1ms or less). This jitter is visualised here:
 
 ![timeseries_with_navigator](https://github.com/JoeGreiner/TimeJitterLeicaSp8/assets/24453528/cb76c193-8531-4013-bb56-c33843ab4fb8)
 
