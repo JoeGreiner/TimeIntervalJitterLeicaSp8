@@ -1,4 +1,4 @@
-# Time Interval Jitter LeicaSp8
+# Time Interval Jitter Leica SP8
 
 This repository is documentation/analysis scripts for an unexpected time jitter phenomena (jitter between two frame acquisitions/interval between two subsequent frames) we observed when recording time series with the Leica SP8 platform (observed both with multiphoton and confocal microscope). When recording a timeseries with LAS X Navigator, the time between frames is not constant, but exhibits quite a large time jitter (in our example case up to 44ms maximal jitter). However, these phenomena are not present when recording without LAS X Navigator (regular jitter of ~1ms or less; with exactly the same acquisition settings). This is visualised here:
 
