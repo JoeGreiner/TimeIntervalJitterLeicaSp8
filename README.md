@@ -6,7 +6,6 @@ This repository is documentation/analysis scripts for an unexpected time jitter 
 
 ![timeseries_same_settings_no_navigator](https://github.com/JoeGreiner/TimeJitterLeicaSp8/assets/24453528/2ab60260-a0eb-4d1a-9632-813f6605580b)
 
-
 This is a problem for us in experimental settings in which we are characterising very fast dynamics. For slower acquisition settings, the time jitter is likely a very small error and can be ignored. We are running Windows 10 (version) and LASX software version XX.
 
 # Reproducing the analysis
