@@ -14,7 +14,7 @@ This can be problem in experimental settings in which very fast dynamics are inv
 * Plots will be saved in the folder `analysis/`
 
 # Reproducing the data
-* Record a timeseries with and without Navigator at a SP8X 
-* Open the lif files with Fiji and Bioformats, in the initial IO dialog, select 'Display OME Metadata'.
+* Record a timeseries with and without LAS X Navigator at a SP8
+* Open the lif files with Fiji and Bioformats, in the initial IO dialog, select 'Display OME Metadata'
 * Save the metadata as a xml file. Point to the folder of xml files in run_analysis.py.
 * Run run_analysis.py
