@@ -6,7 +6,7 @@ This repository is documentation/analysis scripts for an unexpected time jitter 
 
 ![timeseries_same_settings_no_navigator](https://github.com/JoeGreiner/TimeJitterLeicaSp8/assets/24453528/2ab60260-a0eb-4d1a-9632-813f6605580b)
 
-This can be problem in experimental settings in which very fast dynamics are investigated and precise timing is important. For slower acquisition settings, the time interval jitter only adds a small error (relative to the frame cycling time) and likely can be ignored. We are running Windows 10 (Windows 10 Enterprise 2016 LTSB (Version 1607) and LAS X software version LAS X 3.5.7.23225.
+This can be problem in experimental settings in which very fast dynamics are investigated and precise timing is important. For slower acquisition settings, the time interval jitter only adds a small error (relative to the frame cycling time) and likely can be ignored. We are running Windows 10 Enterprise 2016 LTSB (Version 1607) and LAS X version 3.5.7.23225.
 
 # Reproducing the analysis
 * Create a conda environment: conda create --file environment.yml
